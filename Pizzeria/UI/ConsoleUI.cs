@@ -1,8 +1,4 @@
-﻿// ===============================
-// Файл: UI/ConsoleUI.cs
-// Призначення: Консольний інтерфейс користувача для системи піцерії
-// ===============================
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using PizzeriaSystem.Core;
